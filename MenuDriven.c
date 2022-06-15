@@ -26,7 +26,7 @@ int main(){
         printf("Please enter the Breadth and Height: ");
         scanf("%d%d", &breadth ,&h);
         temp=.5*breadth*h;
-        printf("The area of the traingle is %d", temp);
+        printf("The area of the traingle is %d", temp);x`
         break;
     case 3:
        
@@ -37,4 +37,4 @@ int main(){
     default:
         break;
     }
-}
+}           
